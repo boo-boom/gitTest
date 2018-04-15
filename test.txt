@@ -1,5 +1,7 @@
 这是一个测试文件
 
-11111111111
-
-dasdsa
+1.branch1修改之后先 暂存-提交
+2.合并 integration至branch1
+3.如有冲突解决冲突（没有冲突跳过）
+4.选择 integration分支 合并branch1至integration
+5.选择 branch1分支
